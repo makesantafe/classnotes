@@ -1,6 +1,7 @@
 **Make Electronics Class - August 8, 2026**
 
 Class Slides [PDF](https://makesantafe.github.io/classnotes/2026_08_08inputsoutputsmotors.pdf)
+
 Make Electronics [Wiki](https://wiki.makesantafe.org/en/resources/electronics) (has the same information that is found below)
 
 # Electronics Classes Links and Resources
@@ -26,6 +27,7 @@ Make Electronics [Wiki](https://wiki.makesantafe.org/en/resources/electronics) (
 **ESP32 Resources**
 
 [Getting Started on Random Nerds Website](https://randomnerdtutorials.com/getting-started-with-esp32/)
+
 [Pinout Guide on Random Nerds Website](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)
 
 **ESP32 Tips and Tricks for MicroBlocks**
