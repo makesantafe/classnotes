@@ -1,8 +1,10 @@
-**Make Electronics Class - August 8, 2026**
+**Make Electronics Class**
 
-Class Slides [PDF](https://makesantafe.github.io/classnotes/2026_08_08inputsoutputsmotors.pdf)
+Badge Class Slides [PDF](https://makesantafe.github.io/classnotes/2026_08_20electronics.pdf)
 
-Make Electronics [Wiki](https://wiki.makesantafe.org/en/resources/electronics) (has the same information that is found below)
+Inputs/Outputs Class Slides [PDF](https://makesantafe.github.io/classnotes/2026_08_08inputsoutputsmotors.pdf)
+
+Make Electronics [Wiki](https://wiki.makesantafe.org/en/resources/electronics) (same information as below)
 
 # Electronics Classes Links and Resources
 ## Class Links
