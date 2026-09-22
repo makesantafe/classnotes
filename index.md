@@ -1,6 +1,6 @@
 **Make Electronics Class**
 
-Badge Class Slides [PDF](https://makesantafe.github.io/classnotes/2026_08_20electronics.pdf)
+Badge Class Slides [PDF](https://makesantafe.github.io/classnotes/2026_09_25electronics.pdf)
 
 Inputs/Outputs Class Slides [PDF](https://makesantafe.github.io/classnotes/2026_09_10inputsoutputsmotors.pdf)
 
